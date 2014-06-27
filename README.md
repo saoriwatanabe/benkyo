@@ -2,6 +2,6 @@ benkyo
 ======
 
 <br/>
-サンプルコード
+サンプルコード<br/>
 SampleCode
 <br/>
